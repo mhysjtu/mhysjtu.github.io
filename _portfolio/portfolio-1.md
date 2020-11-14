@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "多传感器融合室外车载定位"
+excerpt: "安卓端视觉惯导GPS融合定位系统<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
